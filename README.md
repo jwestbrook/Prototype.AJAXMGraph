@@ -21,7 +21,7 @@ Include `agGraph.css` file in your page
 <link rel="stylesheet" type="text/css" media="screen" href="agGraph.css" />
 ```
 
-Download and include [prototype.js](http://prototypejs.org/download) file in your page
+Download and include [PrototypeJS](http://prototypejs.org/download) file in your page
 Include `graphM.prototype.js` file in your page
 
 
